@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git repo url](https://github.com/Plut0r/nft-card-component)
-- Live Site URL: [Git live url](https://your-live-site-url.com)
+- Live Site URL: [Git live url](https://plut0r.github.io/nft-card-component/)
 
 ### Built with
 
